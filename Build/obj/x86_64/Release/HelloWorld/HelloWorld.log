@@ -1,2 +1,2 @@
 ﻿  HelloWorld.cpp
-  HelloWorld.vcxproj -> D:\Git repositories\Box2D_Builded\Box2D-master\Build\bin\x86_64\Release\HelloWorld.exe
+c1xx : fatal error C1083: Nie można otworzyć pliku źródło: '..\HelloWorld\HelloWorld.cpp': No such file or directory
